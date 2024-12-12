@@ -1,0 +1,20 @@
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\eltur\OneDrive\Desktop\Attractor\java\HW\home_work_25> git branch home_work_25
+PS C:\Users\eltur\OneDrive\Desktop\Attractor\java\HW\home_work_25> git checkout home_work_25
+Switched to branch 'home_work_25'
+PS C:\Users\eltur\OneDrive\Desktop\Attractor\java\HW\home_work_25> git branch
+* home_work_25
+  master
+PS C:\Users\eltur\OneDrive\Desktop\Attractor\java\HW\home_work_25> git add .
+PS C:\Users\eltur\OneDrive\Desktop\Attractor\java\HW\home_work_25> git commit -m "Created a new branch 'home_work_25'"
+On branch home_work_25
+nothing to commit, working tree clean
+PS C:\Users\eltur\OneDrive\Desktop\Attractor\java\HW\home_work_25> git push origin home_work_25
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Sultankulove/vending_machine.git
+   e9f23cb..768a0fe  home_work_25 -> home_work_25
+PS C:\Users\eltur\OneDrive\Desktop\Attractor\java\HW\home_work_25>
+===================================================================================================
